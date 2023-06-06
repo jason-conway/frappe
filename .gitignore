@@ -1,0 +1,6 @@
+.vscode/
+bin/
+
+tests/**
+!tests/expected.txt
+!tests/test.sh

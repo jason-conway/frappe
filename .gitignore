@@ -1,6 +1,7 @@
 .vscode/
 bin/
 
-tests/**
-!tests/expected.txt
-!tests/test.sh
+tests/frappe*
+tests/out.txt
+etc/
+pgo/
